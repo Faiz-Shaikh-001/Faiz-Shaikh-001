@@ -1,4 +1,4 @@
-<h2 align="left">💫 About Me:<br><br>Hi there! I'm a passionate Software Developer with a knack for creating innovative and efficient solutions. Currently, I'm honing my skills as a MERN Stack Developer Intern at Intment Technologies, where I contribute to building robust and user-friendly web applications.<br>My Skills 🌟<br><br>Proficient in: Python, HTML, CSS, JavaScript, React.js<br>Knowledgeable in: C, C++, SQL<br>Strong in problem-solving and tackling challenging coding tasks.</h2>
+<h2 align="left">💫 About Me:<br><br>Hi there! I'm a passionate Software Developer with a knack for creating innovative and efficient solutions. Currently, I'm honing my skills as a founder of a small startup, where I contribute to building robust and user-friendly web/mobile applications adn leadership skills.<br>My Skills 🌟<br><br>Proficient in: Python, HTML, CSS, JavaScript, React.js<br>Knowledgeable in: C, C++, SQL<br>Strong in problem-solving and tackling challenging coding tasks.</h2>
 
 ###
 
