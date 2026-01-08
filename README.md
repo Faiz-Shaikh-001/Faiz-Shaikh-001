@@ -1,4 +1,4 @@
-<h2 align="left">💫 About Me:<br><br>Hi there! I'm a passionate Software Developer with a knack for creating innovative and efficient solutions. Currently, I'm honing my skills as a founder of a small startup, where I contribute to building robust and user-friendly web/mobile applications adn leadership skills.<br>My Skills 🌟<br><br>Proficient in: Python, HTML, CSS, JavaScript, React.js<br>Knowledgeable in: C, C++, SQL<br>Strong in problem-solving and tackling challenging coding tasks.</h2>
+s<h2 align="left">💫 About Me:<br><br>Hi there! I'm a passionate Software Developer with a knack for creating innovative and efficient solutions. Currently, I'm honing my skills as a founder of a small startup, where I contribute to building robust and user-friendly web/mobile applications adn leadership skills.<br>My Skills 🌟<br><br>Proficient in: Python, HTML, CSS, JavaScript, React.js<br>Knowledgeable in: C, C++, SQL<br>Strong in problem-solving and tackling challenging coding tasks.</h2>
 
 ###
 
@@ -62,8 +62,8 @@
 
 <br clear="both">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 ###
