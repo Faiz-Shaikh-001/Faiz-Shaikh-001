@@ -60,12 +60,5 @@
 
 ###
 
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-gird-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-gird-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-###
-![snake gif](https://github.com/Faiz-Shaikh-001/Faiz-Shaikh-001/blob/output/github-contribution-gird-snake-dark.svg)
+![snake gif](https://github.com/Faiz-Shaikh-001/Faiz-Shaikh-001/blob/output/github-snake-dark.svg)
 
