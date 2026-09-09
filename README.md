@@ -14,6 +14,27 @@ Currently, I'm building products at **Orvionis Systems**, where I work on applic
 * Building production-grade software
 * Data Structures & Algorithms
 
+## Featured Engineering Work
+
+### OptixSuite — Offline-First Multi-Store Retail Management System
+
+A commercial retail management system built for optical stores, designed to continue operating without network connectivity while synchronizing shared state across stores and devices.
+
+**Engineering highlights:**
+
+* Offline-first architecture with local database as the primary application data source
+* Version-aware bidirectional cloud synchronization
+* Multi-store data isolation and role-based authorization
+* Application-level encryption for sensitive persisted and synchronized data
+* Backup, recovery, and historical-data handling
+* Persistence architecture evolved from **Isar → Drift / SQLite** as relational and synchronization requirements grew
+
+**Stack:** `Flutter` `Dart` `Drift` `SQLite` `Supabase` `PostgreSQL` `Cloudflare R2`
+
+[**Engineering Case Study →**](https://github.com/Faiz-Shaikh-001/optixsuite-engineering-case-study)
+
+[Architecture Evolution](https://github.com/Faiz-Shaikh-001/optixsuite-engineering-case-study/blob/main/docs/architecture-evolution.md) · [Offline-First Sync](https://github.com/Faiz-Shaikh-001/optixsuite-engineering-case-study/blob/main/docs/offline-first-sync.md) · [Security & Encryption](https://github.com/Faiz-Shaikh-001/optixsuite-engineering-case-study/blob/main/docs/security-and-encryption.md) · [Design Decisions](https://github.com/Faiz-Shaikh-001/optixsuite-engineering-case-study/blob/main/docs/design-decisions.md)
+
 
 ###
 
