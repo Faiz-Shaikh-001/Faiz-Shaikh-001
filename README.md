@@ -4,7 +4,7 @@
 
 I build software systems for real-world business problems, with experience across **Flutter, Python/Django, React, databases, cloud services, and offline-first architectures**.
 
-Currently, I'm building products at **Orvionis Systems**, where I work on application architecture, data modeling, security, synchronization, performance, and end-to-end product development.
+Currently, I'm working on application architecture, data modeling, security, synchronization, performance, and end-to-end product development.
 
 ### Currently focused on
 
