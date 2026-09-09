@@ -1,51 +1,48 @@
-<h2 align="left">💫 About Me:<br><br>Hi there! I'm a passionate Software Developer with a knack for creating innovative and efficient solutions. Currently, I'm honing my skills as a founder of a small startup, where I contribute to building robust and user-friendly web/mobile applications and leadership skills.<br>My Skills 🌟<br><br>Proficient in: Python, HTML, CSS, JavaScript, React.js<br>Knowledgeable in: C, C++, SQL<br>Strong in problem-solving and tackling challenging coding tasks.</h2>
+# Faiz Shaikh
+
+**Software Engineer | Full-Stack & Cross-Platform Systems**
+
+I build software systems for real-world business problems, with experience across **Flutter, Python/Django, React, databases, cloud services, and offline-first architectures**.
+
+Currently, I'm building products at **Orvionis Systems**, where I work on application architecture, data modeling, security, synchronization, performance, and end-to-end product development.
+
+### Currently focused on
+
+* Backend engineering and system design
+* Distributed/offline-first data synchronization
+* Database architecture and performance
+* Building production-grade software
+* Data Structures & Algorithms
+
 
 ###
 
-<h2 align="left">Tech Stack:</h2><br />
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-</div>
+## Tech Stack
+
+### Languages
+
+`Python` `Dart` `JavaScript` `TypeScript` `SQL` `C++`
+
+### Application Development
+
+`Flutter` `React` `Django` `HTML5` `CSS3`
+
+### Backend & Data
+
+`Node.js` `Express.js` `PostgreSQL` `Supabase` `Firebase` `Isar` `Drift`
+
+### Cloud & Infrastructure
+
+`Cloudflare` `Firebase Hosting` `Git` `GitHub` `Linux`
+
+### Engineering
+
+`REST APIs` `Authentication & RBAC` `Offline-First Systems` `Data Synchronization` `Database Design` `System Design`
+
 
 ###
 
-<div align="left">
+<div align="left" style="text-decoration:none">
   <a href="https://www.instagram.com/faizshk____" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
